@@ -1,0 +1,76 @@
+
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+.App-logo {
+  height: 8.5vmin;
+  pointer-events: none;
+  
+}
+
+
+.Navbar-container{
+  display: flex;
+  text-align: center;
+  padding: 10px;
+  margin: 10px;
+  background-color: white;
+  border-bottom: 1px solid black;
+}
+.blank-div{
+  width: 1500px;
+}
+.input-div{
+  width: 300px;
+}
+.Search-input{
+  height: 40px;
+  border-radius: 5px;
+  font-family: sans-serif;
+  border: 1.5px solid navy;
+  padding: 10px;
+}
+.Search-btn{
+  height: 40px;
+  margin: 20px;
+  padding: 5px;
+  border-radius: 5px;
+  font-family: sans-serif;
+  border: 1.5px solid navy;
+  color: navy;
+  background-color: white;
+}
+.wishlist-div{
+  width: 100px;
+}
+.login-logo{
+  height: 23px;
+  background-color: white;
+}
+.login-btn{
+  display: flex;
+  background-color: white;
+  right: 0px;
+  gap: 0.4rem;
+  text-align: center;
+  align-items: center;
+  font-family: Arial;
+  font-size: 15px;
+  height: 40px;
+  margin: 20px;
+  padding: 5px;
+  border-radius: 15px;
+  border: 1.7px solid rgb(10, 10, 10);
+}
+.wishlist-logo{
+  height: 45px;
+  padding: 10px;
+  margin: 15px;
+ 
+}
+
+
